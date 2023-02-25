@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.58fb5f9c.css",
-    "main.js": "/Portfolio/static/js/main.f7c43c26.js",
+    "main.js": "/Portfolio/static/js/main.d256148e.js",
     "static/media/GameStore.png": "/Portfolio/static/media/GameStore.8d9e1ef56fa07c62ccb2.png",
     "static/media/Service.png": "/Portfolio/static/media/Service.e75a38a648fa72ce9700.png",
     "static/media/News.png": "/Portfolio/static/media/News.262d304bcbe2fdf555b8.png",
@@ -9,6 +9,7 @@
     "static/media/E-commerce React.png": "/Portfolio/static/media/E-commerce React.4bb46c3a195a63c6085f.png",
     "static/media/E-commerce Django.png": "/Portfolio/static/media/E-commerce Django.34d3ae42ed7748e9da77.png",
     "static/media/BookStore.jpg": "/Portfolio/static/media/BookStore.aef406e30f1cfc6c8841.jpg",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.32009af692de9c82436c.pdf",
     "static/media/java.png": "/Portfolio/static/media/java.44b65100370243570faa.png",
     "static/media/python.png": "/Portfolio/static/media/python.3e8a90f52b67ce17a3f4.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -23,10 +24,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.58fb5f9c.css.map": "/Portfolio/static/css/main.58fb5f9c.css.map",
-    "main.f7c43c26.js.map": "/Portfolio/static/js/main.f7c43c26.js.map"
+    "main.d256148e.js.map": "/Portfolio/static/js/main.d256148e.js.map"
   },
   "entrypoints": [
     "static/css/main.58fb5f9c.css",
-    "static/js/main.f7c43c26.js"
+    "static/js/main.d256148e.js"
   ]
 }
