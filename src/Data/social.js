@@ -1,6 +1,7 @@
 import { FaGithub,FaLinkedin } from 'react-icons/fa'
 import {HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
+import pdf from "../assets/portfolio/resume.pdf"
 
 const links = [
     {
@@ -31,7 +32,7 @@ const links = [
         child:(
             <>Resume <BsFillPersonLinesFill size={30} /></>
         ),
-        href:'/resume.pdf',
+        href:pdf,
         style:'rounded-br-md',
         download:true,
     },

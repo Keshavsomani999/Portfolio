@@ -17,8 +17,8 @@ const portfolios = [
     {
       id:2,
       src:EcommerceDjango,
-      demo:"https://github.com/Keshavsomani999/BookStore",
-      code:"https://github.com/Keshavsomani999/BookStore",
+      demo:"http://keshavsomani999.pythonanywhere.com/",
+      code:"https://github.com/Keshavsomani999/SmartShopping",
     },
     {
       id:3,
