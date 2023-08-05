@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'react-scroll'
-import HeroImage from '../assets/keshav.jpg'
+import HeroImage from '../assets/keshav.png'
 import {MdOutlineKeyboardArrowRight} from 'react-icons/md'
 
 function Home() {

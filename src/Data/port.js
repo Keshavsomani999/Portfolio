@@ -5,6 +5,7 @@ import GameStore from "../assets/portfolio/GameStore.png"
 import News from "../assets/portfolio/News.png"
 import Service from "../assets/portfolio/Service.png"
 import SocialMedia from "../assets/portfolio/SocialMedia.png"
+import MERN from "../assets/portfolio/MERN.png"
 
 
 const portfolios = [
@@ -41,7 +42,7 @@ const portfolios = [
     {
       id:6,
       src:Service,
-      demo:"https://github.com/Keshavsomani999/django_Service_app",
+      demo:"http://servicehome.pythonanywhere.com/",
       code:"https://github.com/Keshavsomani999/django_Service_app",
     },
     {
@@ -49,6 +50,12 @@ const portfolios = [
       src:SocialMedia,
       demo:"https://github.com/Keshavsomani999/Social_Media",
       code:"https://github.com/Keshavsomani999/Social_Media",
+    },
+    {
+      id:8,
+      src:MERN,
+      demo:"https://github.com/Keshavsomani999/MERN---Ecommerce",
+      code:"https://github.com/Keshavsomani999/MERN---Ecommerce",
     },
     
   ]
