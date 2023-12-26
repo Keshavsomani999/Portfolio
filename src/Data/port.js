@@ -60,7 +60,7 @@ const portfolios = [
     {
       id:9,
       src:AdminPanel,
-      demo:"https://keshavsomani999.github.io/DashboardLive/admin/dashboard",
+      demo:"https://keshavsomani999.github.io/DashboardLive/",
       code:"https://github.com/Keshavsomani999/DashboardLive",
     },
     
