@@ -6,7 +6,7 @@ import News from "../assets/portfolio/News.png"
 import Service from "../assets/portfolio/Service.png"
 import SocialMedia from "../assets/portfolio/SocialMedia.png"
 import MERN from "../assets/portfolio/MERN.png"
-
+import AdminPanel from "../assets/portfolio/AdminPanel.png"
 
 const portfolios = [
     {
@@ -56,6 +56,12 @@ const portfolios = [
       src:MERN,
       demo:"https://github.com/Keshavsomani999/MERN---Ecommerce",
       code:"https://github.com/Keshavsomani999/MERN---Ecommerce",
+    },
+    {
+      id:9,
+      src:AdminPanel,
+      demo:"https://keshavsomani999.github.io/DashboardLive/admin/dashboard",
+      code:"https://github.com/Keshavsomani999/DashboardLive",
     },
     
   ]
