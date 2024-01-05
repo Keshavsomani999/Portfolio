@@ -30,7 +30,7 @@ const portfolios = [
     {
       id:4,
       src:GameStore,
-      demo:"https://github.com/Keshavsomani999/GamingWebsite/blob/main/Gaming_Website.mkv",
+      demo:"https://gameweber.pythonanywhere.com/",
       code:"https://github.com/Keshavsomani999/GamingWebsite",
     },
     {
